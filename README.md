@@ -1,16 +1,21 @@
-### Hi there 👋
+# **👋 Olá**,
+# Eu me chamo **Miguel**
+## ・🗿 Eu sou meio novo nessa área, porém, eu busco mais e mais para o meu desenvolvimento.
+## ・ Atualmente estudo **Linguagens de Programação**, exatamente **PYTHON**, **HTML** e **CSS**, e um pouco de **JavaScript**, pretendo ao longo do Tempo estudar muitas Mais!
+## ・🤖 Entrei no mundo da **Programação**, fazendo **curso de hardware e desenvolvimento de bots discord** usando **Python** e **JS**.
 
-<!--
-**Migas007/Migas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+# 📊 STATUS
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Migas007&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migas007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
