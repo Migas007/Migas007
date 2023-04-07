@@ -16,6 +16,4 @@
   media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migas007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</picture> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migas007&layout=compact)](https://github.com/Migas007/github-readme-stats)
