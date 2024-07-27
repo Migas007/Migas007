@@ -1,6 +1,5 @@
 # **👋 Olá**,
-# Eu me chamo **Miguel**
-## ・🗿 Eu sou meio novo nessa área, porém, eu busco mais e mais para o meu desenvolvimento.
+## ・🗿 Busco mais e mais para o meu desenvolvimento.
 ## ・ Atualmente estudo **Linguagens de Programação**, exatamente **PYTHON**, **HTML** e **CSS**, e um pouco de **JavaScript**, pretendo ao longo do Tempo estudar muitas Mais!
 ## ・🤖 Entrei no mundo da **Programação**, fazendo **curso de hardware e desenvolvimento de bots discord** usando **Python** e **JS**.
 
@@ -35,6 +34,5 @@
 
 #
 # **Entre no meu Servidor do Discord:**
-## https://discord.gg/ss8C5crMbd - 👀
-- **Servidor que será para fas de Animes, atualente ainda está em construção portanto é normal ter Bugs!**
+## Sem Discord - 👀
 
